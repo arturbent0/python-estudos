@@ -1,0 +1,12 @@
+{
+    "frutas": [
+        {
+            "nome": "maçã",
+            "preco": "2.50"
+        },
+        {
+            "nome": "banana",
+            "preco": "3.00"
+        }
+    ]
+}
